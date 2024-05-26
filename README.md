@@ -1,21 +1,21 @@
 ## Hi there, I'm Pramath 👋
 
-Welcome to my GitHub profile where I explore the intersection of artificial intelligence and web development!
+Welcome to my GitHub profile where I explore the exciting worlds of artificial intelligence and web development!
 
 ### 🔭 I’m currently working on
-- Advanced AI models and integrating AI with blockchain technology.
+- Developing AI models to solve complex problems and crafting responsive web applications.
 
 ### 🌱 I’m currently learning
-- Machine Learning, Deep Learning, and their applications in solving real-world problems.
+- Deep Learning techniques and enhancing my blockchain knowledge.
 
 ### 👯 I’m looking to collaborate on
-- AI-driven projects, especially those that leverage blockchain for enhanced security and transparency.
+- AI-driven projects and innovative web solutions.
 
 ### 🤔 I’m looking for help with
-- Advanced topics in AI such as neural networks and predictive analytics.
+- Complex AI challenges and understanding advanced blockchain concepts.
 
 ### 💬 Ask me about
-- AI, machine learning, web development, and how blockchain can transform industries.
+- AI, machine learning, JavaScript frameworks, or the basics of blockchain technology.
 
 ### 📫 How to reach me
 - 📞 Mobile: +91 6364125737
@@ -25,16 +25,25 @@ Welcome to my GitHub profile where I explore the intersection of artificial inte
 - He/Him
 
 ### ⚡ Fun fact
-- I'm fascinated by how AI can mimic human intelligence and decision-making processes.
+- I'm deeply intrigued by the potential of AI to enhance everyday life.
 
 ### 🛠️ My Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-7B22CE?style=for-the-badge&logo=artificialintelligence&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
-![AI](https://img.shields.io/badge/AI-7B22CE?style=for-the-badge&logo=ai&logoColor=white)
 
 ### 📊 My GitHub Stats
 ![Pramath's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramaths&show_icons=true&theme=tokyonight)
+
+### 🏆 GitHub Achievements
+![Achievements](https://github-profile-trophy.vercel.app/?username=pramaths&row=1&column=6)
+
+### 🔥 My GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight)
+
+### 📚 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramaths&layout=compact&theme=tokyonight)
 
 ---
 
