@@ -17,10 +17,13 @@
 ### 📫 How to reach me
 - 📞 Mobile: +91 6364125737
 - 📧 Email: [pramaths848@gmail.com](mailto:pramaths848@gmail.com)
-
-
-### ⚡ Fun fact
-- I'm deeply intrigued by the potential of AI to enhance everyday life.
+  
+## 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pramaths&show_icons=true&theme=tokyonight" alt="Pramath's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramaths&layout=compact&theme=tokyonight" alt="Top Langs">
+</div>
 
 ### 🛠️ My Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
