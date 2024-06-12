@@ -1,6 +1,6 @@
 ## Hi there, I'm Pramath 👋
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-Welcome to my GitHub profile where I explore the exciting worlds of artificial intelligence and web development!
 
 ### 🔭 I’m currently working on
 - Developing AI models to solve complex problems and crafting responsive web applications.
