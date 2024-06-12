@@ -31,14 +31,9 @@
 ![AI](https://img.shields.io/badge/AI-7B22CE?style=for-the-badge&logo=artificialintelligence&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
-### 📊 My GitHub Stats
-![Pramath's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramaths&show_icons=true&theme=tokyonight)
-
 ### 🏆 GitHub Achievements
 ![Achievements](https://github-profile-trophy.vercel.app/?username=pramaths&row=1&column=6)
 
-### 🔥 My GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight)
 
 ### 📚 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramaths&layout=compact&theme=tokyonight)
