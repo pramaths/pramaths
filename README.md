@@ -32,7 +32,7 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
 ### 🏆 GitHub Achievements
-![Achievements](https://github-profile-trophy.vercel.app/?username=pramaths&row=1&column=6)
+![Achievements](https://github-profile-trophy.vercel.app/?username=pramaths&row=1&column=12)
 
 
 ### 📚 Most Used Languages
