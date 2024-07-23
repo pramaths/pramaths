@@ -20,8 +20,10 @@
   
 ## 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramaths&show_icons=true&theme=tokyonight" alt="Pramath's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight" alt="GitHub Streak">
+  <div width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=pramaths&show_icons=true&theme=tokyonight" alt="Pramath's GitHub stats" width="50%>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight" alt="GitHub Streak" width="50%>
+  </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramaths&layout=compact&theme=tokyonight" alt="Top Langs">
 </div>
 
