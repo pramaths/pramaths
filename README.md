@@ -26,10 +26,9 @@
 </div>
 
 ### 🛠️ My Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-7B22CE?style=for-the-badge&logo=artificialintelligence&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=aws,vercel,c,cpp,java,py,go,solidity,git,github,html,css,tailwind,js,ts,nodejs,react,vite,express,mongodb,mysql,nextjs,nginx,postgres,redis,firebase,flask,spring,sqlite,docker,kubernetes,kafka,rabbitmq,sklearn,pytorch,linux,windows,vscode,md,matlab,npm,figma,regex,postman&perline=15&theme=dark"/>
+</p>
 
 ### 🏆 GitHub Achievements
 ![Achievements](https://github-profile-trophy.vercel.app/?username=pramaths&row=1&column=12)
