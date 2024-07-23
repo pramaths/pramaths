@@ -20,7 +20,7 @@
   
 ## 📊 My GitHub Stats
 <div align="center">
-  <div style="display: flex; justify-content: center; width: 100%;">
+  <div style="display: flex; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=pramaths&show_icons=true&theme=tokyonight" alt="Pramath's GitHub stats" style="width: 50%;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight" alt="GitHub Streak" style="width: 50%;" />
   </div>
