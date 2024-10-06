@@ -5,14 +5,8 @@
 ### 🔭 I’m currently working on
 - Developing AI models to solve complex problems and crafting responsive web applications.
 
-### 🌱 I’m currently learning
-- Deep Learning techniques and enhancing my blockchain knowledge.
-
 ### 👯 I’m looking to collaborate on
 - AI-driven projects and innovative web solutions.
-
-### 🤔 I’m looking for help with
-- Complex AI challenges and understanding advanced blockchain concepts.
 
 ### 📫 How to reach me
 - 📞 Mobile: +91 6364125737
