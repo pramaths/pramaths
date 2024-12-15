@@ -2,12 +2,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### 🔭 I’m currently working on
-- Developing AI models to solve complex problems and crafting responsive web applications.
-
-### 👯 I’m looking to collaborate on
-- AI-driven projects and innovative web solutions.
-
 ### 📫 How to reach me
 - 📞 Mobile: +91 6364125737
 - 📧 Email: [pramaths848@gmail.com](mailto:pramaths848@gmail.com)
