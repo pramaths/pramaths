@@ -1,6 +1,5 @@
 ## Hi there, I'm Pramath 👋
   
-## 📊 My GitHub Stats
 <div align="center">
   <div style="display: flex; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=pramaths&show_icons=true&theme=tokyonight" alt="Pramath's GitHub stats" style="width: 50%;" />
