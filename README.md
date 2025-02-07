@@ -1,10 +1,4 @@
 ## Hi there, I'm Pramath 👋
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-### 📫 How to reach me
-- 📞 Mobile: +91 6364125737
-- 📧 Email: [pramaths848@gmail.com](mailto:pramaths848@gmail.com)
   
 ## 📊 My GitHub Stats
 <div align="center">
