@@ -16,9 +16,3 @@
 ![Achievements](https://github-profile-trophy.vercel.app/?username=pramaths&row=1&column=12)
 
 
-### 📚 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramaths&layout=compact&theme=tokyonight)
-
----
-
-Thank you for visiting my profile! Feel free to browse my repositories and let's connect!
