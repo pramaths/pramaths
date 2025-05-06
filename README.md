@@ -4,10 +4,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramaths&theme=tokyonight" alt="Pramath's GitHub Summary Card" width="600" height='600' />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramaths&theme=tokyonight" alt="Pramath's GitHub Summary Card" width="600" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight" alt="GitHub Streak" width="600" height='600' />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight" alt="GitHub Streak" width="600" />
       </td>
     </tr>
   </table>
