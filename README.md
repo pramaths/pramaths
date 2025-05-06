@@ -2,7 +2,7 @@
   
 <div align="center">
   <div style="display: flex; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pramaths&show_icons=true&theme=tokyonight" alt="Pramath's GitHub stats" style="width: 50%;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramaths&theme=tokyonight" alt="Pramath's GitHub Summary Card" style="width: 60%;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramaths&theme=tokyonight" alt="GitHub Streak" style="width: 50%;" />
   </div>
 </div>
